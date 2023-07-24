@@ -7,7 +7,7 @@
 
 - **Changes to Terms**: We reserve the right to modify these Terms at any time, effective upon posting on the appropriate marketplace or platform. Your use of RN-Flow following any such modification constitutes your agreement to follow and be bound by the Terms as modified.
 
-- **Privacy Policy**: Your use of RN-Flow is also governed by our Privacy Policy, which is available at !(here)[privacyPolicy.md] and incorporated by reference into these Terms.
+- **Privacy Policy**: Your use of RN-Flow is also governed by our Privacy Policy, which is available at [here](privacyPolicy.md) and incorporated by reference into these Terms.
 
 - **Intellectual Property**: All content included within RN-Flow, such as text, graphics, logos, images, data compilations, and software, is the property of Nerds Inc. or its content suppliers and protected by international copyright laws.
 
